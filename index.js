@@ -1,1 +1,1 @@
-console.log('Làm bài tập');
+console.log('bai tap buoi 1 done')
