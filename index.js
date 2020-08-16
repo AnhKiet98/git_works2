@@ -1,1 +1,1 @@
-console.log('bai tap buoi 2 done')
+console.log('bai tap2 done')
